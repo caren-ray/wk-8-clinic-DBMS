@@ -1,7 +1,6 @@
-<<<<<<< HEAD
+
 # wk-8-clinic-DBMS
-=======
->>>>>>> 2209cc6d5b2ae0fdc4608e8e250a6f5d3c07bb0b
+
 # Clinic Booking System (MySQL Project)
 
 ## 📋 Project Title
@@ -24,4 +23,5 @@ This project is a MySQL-based **Clinic Booking System** that simulates the core 
 <<<<<<< HEAD
 =======
 # wk-8-clinic-DBMS
->>>>>>> 2209cc6d5b2ae0fdc4608e8e250a6f5d3c07bb0b
+![ClinicbookingERD](https://github.com/user-attachments/assets/0c622ae0-48f0-4fe9-81ea-17e13b4577b2)
+
