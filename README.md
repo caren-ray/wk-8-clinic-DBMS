@@ -20,7 +20,7 @@ This project is a MySQL-based **Clinic Booking System** that simulates the core 
 1. Open your terminal and login to MySQL:
    ```bash
    mysql -u root -p
-<<<<<<< HEAD
+
 =======
 ## ERD Screenshot
 ![ClinicbookingERD](https://github.com/user-attachments/assets/0c622ae0-48f0-4fe9-81ea-17e13b4577b2)
