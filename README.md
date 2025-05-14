@@ -22,6 +22,6 @@ This project is a MySQL-based **Clinic Booking System** that simulates the core 
    mysql -u root -p
 <<<<<<< HEAD
 =======
-# wk-8-clinic-DBMS
+## ERD Screenshot
 ![ClinicbookingERD](https://github.com/user-attachments/assets/0c622ae0-48f0-4fe9-81ea-17e13b4577b2)
 
