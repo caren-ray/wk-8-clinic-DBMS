@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 # wk-8-clinic-DBMS
+=======
+>>>>>>> 2209cc6d5b2ae0fdc4608e8e250a6f5d3c07bb0b
 # Clinic Booking System (MySQL Project)
 
 ## 📋 Project Title
@@ -18,3 +21,7 @@ This project is a MySQL-based **Clinic Booking System** that simulates the core 
 1. Open your terminal and login to MySQL:
    ```bash
    mysql -u root -p
+<<<<<<< HEAD
+=======
+# wk-8-clinic-DBMS
+>>>>>>> 2209cc6d5b2ae0fdc4608e8e250a6f5d3c07bb0b
